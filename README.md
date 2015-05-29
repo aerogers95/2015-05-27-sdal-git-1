@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 2015-07-27
 
 Day 2: 2015-05-29
@@ -7,5 +7,9 @@ Day 2: 2015-05-29
 Test
 
 
+
 this is  a  another line that i am adding from github
->>>>>>> a74a1f806341095d8e28ca745117bde083f69ad1
+
+=======
+this is some other line that i am adding from github
+
